@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "emailjs-com": "^3.2.0",
+    "nodemon": "^3.1.9",
+    "type": "module"
+  }
+}
+
